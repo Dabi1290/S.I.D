@@ -1,4 +1,4 @@
-[30;107m                                                                                                    
+                                                                                                
                                                                                                     
                                *@@@@@@@(.                                                           
                              @@@         (@@@@@#                                                    
@@ -32,6 +32,27 @@
                                           @@@.    &@@@@     &@ @@   @@                              
                                              @@@@  (@,*@@/   @@ @@.@@                               
                                                  ,@@@@   /@@@@@@  .                                 
-                                                                                                    
-                                                                                                    
-[0m
+
+
+
+                                                                    
+                                                                                        
+                       SSSSSSSSSSSSSSS      QQQQQQQQQ      lllllll DDDDDDDDDDDDD        
+                     SS:::::::::::::::S   QQ:::::::::QQ    l:::::l D::::::::::::DDD     
+                    S:::::SSSSSS::::::S QQ:::::::::::::QQ  l:::::l D:::::::::::::::DD   
+                    S:::::S     SSSSSSSQ:::::::QQQ:::::::Q l:::::l DDD:::::DDDDD:::::D  
+                    S:::::S            Q::::::O   Q::::::Q  l::::l   D:::::D    D:::::D 
+                    S:::::S            Q:::::O     Q:::::Q  l::::l   D:::::D     D:::::D
+                     S::::SSSS         Q:::::O     Q:::::Q  l::::l   D:::::D     D:::::D
+                      SS::::::SSSSS    Q:::::O     Q:::::Q  l::::l   D:::::D     D:::::D
+                        SSS::::::::SS  Q:::::O     Q:::::Q  l::::l   D:::::D     D:::::D
+                           SSSSSS::::S Q:::::O     Q:::::Q  l::::l   D:::::D     D:::::D
+                                S:::::SQ:::::O  QQQQ:::::Q  l::::l   D:::::D     D:::::D
+                                S:::::SQ::::::O Q::::::::Q  l::::l   D:::::D    D:::::D 
+                    SSSSSSS     S:::::SQ:::::::QQ::::::::Q l::::::lDDD:::::DDDDD:::::D  
+                    S::::::SSSSSS:::::S QQ::::::::::::::Q  l::::::lD:::::::::::::::DD   
+                    S:::::::::::::::SS    QQ:::::::::::Q   l::::::lD::::::::::::DDD     
+                     SSSSSSSSSSSSSSS        QQQQQQQQ::::QQ llllllllDDDDDDDDDDDDD        
+                                                    Q:::::Q                             
+                                                     QQQQQQ                             
+                                                                            
