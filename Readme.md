@@ -1,4 +1,9 @@
-![polipo.png](assets%2Fpolipo.png)
+
+
+<p align="center">
+   <img src="assets/polipo.png">
+</p>
+
 
 # Overview
 
