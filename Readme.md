@@ -102,8 +102,8 @@ All the results can be also seen in the Documentation.pdf
 1. create a folder called `models`
 2. extract models.zip files content in the models folder
 3. run the app with
-4. ```bash
+```bash
    streamlit run app.py
-   
+```   
 
 ![polipo.gif](assets%2Fpolipo.gif)
