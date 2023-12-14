@@ -34,7 +34,7 @@ with open('models/retc.sav', 'rb') as file:
     retc = pickle.load(file)
 
 
-with open('models/count_vectorizer.sav', 'rb') as file:
+with open('models/vectorizer.pkl', 'rb') as file:
     vectorizer = pickle.load(file)
 
 
