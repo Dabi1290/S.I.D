@@ -76,13 +76,13 @@ SQLInjection_Detector/
 # Training operations
 
 1. Data Cleaning
-   2. deletion of all unnecessary lines
-   3. turn everything in lower case
-   4. removal of outer spaces
-   5. deletion of the first select instruction
-6. Feature Engineering
-   7. length of the query
-   8. number of select instructions in a query
+   - deletion of all unnecessary lines
+   -  turn everything in lower case
+   -  removal of outer spaces
+   -  deletion of the first select instruction
+2. Feature Engineering
+   -  length of the query
+   -  number of select instructions in a query
 
 # Model Used
 
@@ -99,7 +99,7 @@ All the graphics results can be viewed in the directories:
 - RocCurve(Except for Nearest Centroid)
 - svc (just for SVMs models)
 
-All the results can be also seen in the Documentation.pdf
+All the results can be also seen in the [S.Q.l.D_documentazione.pdf](documents%2FS.Q.l.D_documentazione.pdf)
 
 
 # How to run 
